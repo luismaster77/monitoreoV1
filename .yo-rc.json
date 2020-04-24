@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.tablesa.monitoreo",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "microservice",
+    "baseName": "monitoreo",
+    "packageName": "com.tablesa.monitoreo",
+    "packageFolder": "com/tablesa/monitoreo",
+    "serverPort": "8090",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDZmYjk0NTdmZDgyOTZhMDgzMjc0NjFkMDcyNWIyMjY1ZDEzM2QwMjMzYThlMzgxNTZjYWEzYWVmZjVmNTBhNDFiNTBkNTIzNWFhYTUwZDJlYjBjZTI0ZTQ2NTBiOWRhZWZkMWFlMzkzNWI0OGYyYTVjYzcwZjgwZmIzNDQ1MWI=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1587614230463,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "es",
+    "languages": ["es", "en", "fr", "de", "it", "pt-br", "pt-pt"],
+    "blueprints": [],
+    "reactive": true,
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
